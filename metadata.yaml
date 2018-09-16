@@ -1,5 +1,8 @@
 _repo: La-petite-mademoiselle_51666
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51666-h/images/cover.jpg
 creator:
   author:
     agent_name: Montesquiou-Fézensac, Robert, comte de
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '46516'
     url: http://www.gutenberg.org/2009/agents/46516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51666#La-petite-mademoiselle
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-04-05'
 gutenberg_type: Text
