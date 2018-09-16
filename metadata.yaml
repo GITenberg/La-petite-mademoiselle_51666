@@ -1,0 +1,29 @@
+_repo: La-petite-mademoiselle_51666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montesquiou-Fézensac, Robert, comte de
+    aliases:
+    - Montesquiou-Fézensac, Robert de
+    - Montesquiou-Fezensac, Robert, comte de
+    - Montesquiou, Robert, comte de
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '46516'
+    url: http://www.gutenberg.org/2009/agents/46516
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51666'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: La petite mademoiselle
+url: http://www.gutenberg.org/ebooks/51666
